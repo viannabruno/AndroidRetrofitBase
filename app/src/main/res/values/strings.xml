@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AndroidRetrofitBase</string>
+    <string name="btn_text_user">User</string>
+    <string name="hint_txt_id">Enter User Id</string>
+    <string name="hint_txt_username">Enter Title</string>
+    <string name="hint_txt_data">Enter Body</string>
+    <string name="btn_txt_addUser">Add</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_deletar">Deletar</string>
+    <string name="btn_editar">Editar</string>
+    <string name="txt_id_gene">ID</string>
+    <string name="bs">bs</string>
+    <string name="slogan">Slogan</string>
+    <string name="nome_da_empresa">Nome da Empresa</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="cep">CEP</string>
+    <string name="cidade">Cidade</string>
+    <string name="complemento">Complemento</string>
+    <string name="rua">Rua</string>
+    <string name="site">Site</string>
+    <string name="telefone">Telefone</string>
+    <string name="e_mail">E-mail</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="nome">Nome</string>
+</resources>
